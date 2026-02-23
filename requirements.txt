@@ -1,5 +1,14 @@
-fastapi
-uvicorn
-requests
-python-dotenv
-pytest
+# Web Framework
+fastapi==0.109.0
+
+# ASGI Server
+uvicorn==0.27.0
+
+# HTTP Client (para consumir NewsAPI)
+requests==2.31.0
+
+# Environment variables (para leer el archivo .env)
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.4
