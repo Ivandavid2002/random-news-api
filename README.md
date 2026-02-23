@@ -1,15 +1,32 @@
-# Random News API
+# 📰 Random News API
 
-FastAPI project that returns a random news article using NewsAPI.
+API REST desarrollada con **FastAPI** que consume la API pública de NewsAPI y devuelve una noticia aleatoria según una palabra clave.
 
-## Installation
+---
 
-pip install -r requirements.txt
+## 🚀 Características
 
-## Run
+- 🔹 Obtiene noticias en tiempo real
+- 🔹 Devuelve una noticia aleatoria por petición
+- 🔹 Permite búsqueda por palabra clave
+- 🔹 Documentación automática con Swagger
+- 🔹 Manejo de errores
+- 🔹 Estructura profesional del proyecto
+- 🔹 Lista para Docker
 
-uvicorn app.main:app --reload
+---
 
-## Documentation
+## 🛠️ Tecnologías Utilizadas
 
-http://127.0.0.1:8000/docs
+- Python 3.10+
+- FastAPI
+- Uvicorn
+- Requests
+- NewsAPI
+- Pytest
+
+---
+
+## 📁 Estructura del Proyecto
+
+
