@@ -141,27 +141,8 @@ Copiar código
 
 ---
 
-# 🔥 Cómo ponerlo en GitHub
 
-1. Ve a tu repositorio
-2. Click en `README.md`
-3. Click en el lápiz (Editar)
-4. Borra todo
-5. Pega esto
-6. Scroll abajo
-7. Commit changes
 
----
-
-Si quieres, ahora puedo:
-
-- 🔥 Agregar badges profesionales arriba
-- 🔥 Hacerlo estilo empresa
-- 🔥 Traducirlo a inglés
-- 🔥 Agregar sección de arquitectura
-- 🔥 Agregar imagen o GIF de demo
-
-¿Lo quieres modo nivel reclutador? 😎🚀
 
 
 
